@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <acquisitionDate>10/10/20</acquisitionDate>
+    <name>K First Service Name</name>
+    <licensePlate>MLR01</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>pendiente</stateService>
+  </row>
+  <row>
+    <acquisitionDate>11/11/20</acquisitionDate>
+    <name>G Second Service Name</name>
+    <licensePlate>MLR02</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>pendiente</stateService>
+  </row>
+  <row>
+    <acquisitionDate>12/12/20</acquisitionDate>
+    <name>C Third Service Name</name>
+    <licensePlate>MLR03</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>realizado</stateService>
+  </row>
+  <row>
+    <acquisitionDate>13/13/20</acquisitionDate>
+    <name>Z Fourth Service Name</name>
+    <licensePlate>MLR05</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>a-realizar</stateService>
+  </row>
+  <row>
+    <acquisitionDate>13/13/20</acquisitionDate>
+    <name>B Fifth Service Name</name>
+    <licensePlate>MLR06</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>realizado</stateService>
+  </row>
+  <row>
+    <acquisitionDate>13/13/20</acquisitionDate>
+    <name>A Sixth Service Name</name>
+    <licensePlate>MLR07</licensePlate>
+    <serviceType>Transport</serviceType>
+    <nextService>10 minutes</nextService>
+    <stateService>a-realizar</stateService>
+  </row>
+</root>
